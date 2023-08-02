@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aziz/transitapp/sonotrak/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/aziz/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/aziz/transitapp/sonotrak/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/aziz/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/aziz/transitapp/sonotrak/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/aziz/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/aziz/transitapp/sonotrak/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/aziz/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]

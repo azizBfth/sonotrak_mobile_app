@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aziz/transitapp/sonotrak/build/google_maps_flutter_android/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/aziz/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/aziz/transitapp/sonotrak/build/google_maps_flutter_android/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/aziz/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/aziz/transitapp/sonotrak/build/google_maps_flutter_android/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/aziz/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/aziz/transitapp/sonotrak/build/google_maps_flutter_android/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/aziz/.gradle/caches/transforms-2/files-2.1/9acd6a858ddd372df169a8c143edb80c/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
